@@ -1,0 +1,14 @@
+html,
+body {
+  color:blue;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%; 
+}
+body {
+  background-image: url("../images/bj.jpeg");
+  background-size: cover;
+  background-repeat:no-repeat; 
+  background-attachment: fixed;
+}
